@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987753303073",
+    "project_id": "kick-reals-4c454",
+    "storage_bucket": "kick-reals-4c454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987753303073:android:85b970c625b0470f25e760",
+        "android_client_info": {
+          "package_name": "com.example.kick_reels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnkRVaZOWMbqBcXzbZ5W73PrjG9dwupNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
